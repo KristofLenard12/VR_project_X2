@@ -3,6 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.XR.Interaction.Toolkit;
+using UnityEngine.SceneManagement;
 
 //This class is responsible for randomizing the audio source and sound effects.
 public class GameManager : MonoBehaviour
@@ -64,8 +65,15 @@ public class GameManager : MonoBehaviour
 
         if (interactable2.isSelected && isFirstTargetSelected)
         {
-            //you win, transition scene
+            changeScene();
         }
+    }
+
+    void changeScene()
+    {
+        OVRScreenFade fade = OVRScreenFade.instance;
+        fade.FadeOut();
+        SceneManager.LoadScene(3);
     }
 
     IEnumerator playSound()

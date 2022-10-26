@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 //contains all code stuff needed to persist between scenes
 public class Persistence : MonoBehaviour
@@ -16,5 +17,7 @@ public class Persistence : MonoBehaviour
         }
         Instance = this;
         DontDestroyOnLoad(gameObject);
+        OVRScreenFade fade = OVRScreenFade.instance;
+        fade.FadeIn();
     }
 }

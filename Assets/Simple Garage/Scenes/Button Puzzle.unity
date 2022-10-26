@@ -210,54 +210,6 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 391762411}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &203185306
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 203185308}
-  - component: {fileID: 203185307}
-  m_Layer: 0
-  m_Name: XRPlatformControllerSetup
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!114 &203185307
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 203185306}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e7987a4f9b79e754c951908fed65bc14, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_LeftController: {fileID: 0}
-  m_RightController: {fileID: 0}
-  m_LeftControllerOculusPackage: {fileID: 0}
-  m_RightControllerOculusPackage: {fileID: 0}
---- !u!4 &203185308
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 203185306}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: -0.028720468, z: -0.02681322}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &299445360
 GameObject:
   m_ObjectHideFlags: 0
@@ -502,7 +454,7 @@ Transform:
   - {fileID: 391762412}
   - {fileID: 299445361}
   m_Father: {fileID: 0}
-  m_RootOrder: 2
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &482824031
 MonoBehaviour:
@@ -810,6 +762,32 @@ Camera:
   m_OcclusionCulling: 1
   m_StereoConvergence: 10
   m_StereoSeparation: 0.022
+--- !u!1 &843804108 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3113814192828006758, guid: b1a4bb4bc00d102469a6052b28738e17,
+    type: 3}
+  m_PrefabInstance: {fileID: 1315423228}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &843804116
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 843804108}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e503ea6418d27594caa33b93cac1b06a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  enableSpatialization: 1
+  gain: 0
+  useInvSqr: 0
+  near: 0.25
+  far: 250
+  volumetricRadius: 0
+  reverbSend: 0
+  enableRfl: 0
 --- !u!1001 &903847559
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -973,6 +951,32 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 915673556}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1064950955 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3113814192828006758, guid: b1a4bb4bc00d102469a6052b28738e17,
+    type: 3}
+  m_PrefabInstance: {fileID: 3113814193312211941}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1064950963
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1064950955}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e503ea6418d27594caa33b93cac1b06a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  enableSpatialization: 1
+  gain: 0
+  useInvSqr: 0
+  near: 0.25
+  far: 250
+  volumetricRadius: 0
+  reverbSend: 0
+  enableRfl: 0
 --- !u!1 &1077129816 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1000010671269162, guid: 537ab85af9f24fe42aeca34f12e70e40,
@@ -1064,6 +1068,32 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1126030972}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1146290397 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3113814192828006758, guid: b1a4bb4bc00d102469a6052b28738e17,
+    type: 3}
+  m_PrefabInstance: {fileID: 1993764811}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1146290405
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1146290397}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e503ea6418d27594caa33b93cac1b06a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  enableSpatialization: 1
+  gain: 0
+  useInvSqr: 0
+  near: 0.25
+  far: 250
+  volumetricRadius: 0
+  reverbSend: 0
+  enableRfl: 0
 --- !u!1 &1190720191
 GameObject:
   m_ObjectHideFlags: 0
@@ -1176,7 +1206,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 3
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1267663883 stripped
 GameObject:
@@ -1263,6 +1293,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Button_3
       objectReference: {fileID: 0}
+    - target: {fileID: 3113814192828006752, guid: b1a4bb4bc00d102469a6052b28738e17,
+        type: 3}
+      propertyPath: Spatialize
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3113814192828006752, guid: b1a4bb4bc00d102469a6052b28738e17,
+        type: 3}
+      propertyPath: SpatializePostEffects
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3113814192828006755, guid: b1a4bb4bc00d102469a6052b28738e17,
         type: 3}
       propertyPath: puzzleController
@@ -1330,7 +1370,7 @@ Transform:
   m_Children:
   - {fileID: 1842353692}
   m_Father: {fileID: 0}
-  m_RootOrder: 5
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1382881143
 PrefabInstance:
@@ -1399,6 +1439,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Button_4
       objectReference: {fileID: 0}
+    - target: {fileID: 3113814192828006752, guid: b1a4bb4bc00d102469a6052b28738e17,
+        type: 3}
+      propertyPath: Spatialize
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3113814192828006752, guid: b1a4bb4bc00d102469a6052b28738e17,
+        type: 3}
+      propertyPath: SpatializePostEffects
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3113814192828006755, guid: b1a4bb4bc00d102469a6052b28738e17,
         type: 3}
       propertyPath: puzzleController
@@ -1424,6 +1474,32 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 1428543704}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1418196528 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3113814192828006758, guid: b1a4bb4bc00d102469a6052b28738e17,
+    type: 3}
+  m_PrefabInstance: {fileID: 1382881143}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1418196536
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1418196528}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e503ea6418d27594caa33b93cac1b06a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  enableSpatialization: 1
+  gain: 0
+  useInvSqr: 0
+  near: 0.25
+  far: 250
+  volumetricRadius: 0
+  reverbSend: 0
+  enableRfl: 0
 --- !u!1001 &1419014632
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1714,7 +1790,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 4
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1546099505
 PrefabInstance:
@@ -3181,6 +3257,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Button_2
       objectReference: {fileID: 0}
+    - target: {fileID: 3113814192828006752, guid: b1a4bb4bc00d102469a6052b28738e17,
+        type: 3}
+      propertyPath: Spatialize
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3113814192828006752, guid: b1a4bb4bc00d102469a6052b28738e17,
+        type: 3}
+      propertyPath: SpatializePostEffects
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3113814192828006755, guid: b1a4bb4bc00d102469a6052b28738e17,
         type: 3}
       propertyPath: puzzleController
@@ -3273,6 +3359,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Button_1
       objectReference: {fileID: 0}
+    - target: {fileID: 3113814192828006752, guid: b1a4bb4bc00d102469a6052b28738e17,
+        type: 3}
+      propertyPath: Spatialize
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3113814192828006752, guid: b1a4bb4bc00d102469a6052b28738e17,
+        type: 3}
+      propertyPath: SpatializePostEffects
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3113814192828006755, guid: b1a4bb4bc00d102469a6052b28738e17,
         type: 3}
       propertyPath: puzzleController
@@ -3310,7 +3406,7 @@ PrefabInstance:
     - target: {fileID: 8688982062548017324, guid: e6084503f826bbb428b1e677dc1a75d4,
         type: 3}
       propertyPath: m_RootOrder
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8688982062548017324, guid: e6084503f826bbb428b1e677dc1a75d4,
         type: 3}

@@ -3,6 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class ObjectScript : MonoBehaviour
 {
@@ -39,6 +40,7 @@ public class ObjectScript : MonoBehaviour
             {
                 _timer = false;
                 _currentTimeText.text = "YOU HAVE WON";
+                changeScene();
             }
         }
     }
@@ -47,5 +49,12 @@ public class ObjectScript : MonoBehaviour
     {
         _putPosition = position;
         _timer = true;
+    }
+
+    void changeScene()
+    {
+        OVRScreenFade fade = OVRScreenFade.instance;
+        fade.FadeOut();
+        Application.Quit();
     }
 }

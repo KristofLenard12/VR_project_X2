@@ -1,5 +1,6 @@
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class PuzzleController : MonoBehaviour
 {
@@ -51,13 +52,21 @@ public class PuzzleController : MonoBehaviour
         if (correctButton.gameObject.name == button.gameObject.name)
         {
             Debug.Log("You win");
+            changeScene();
         }
         else
         {
-            Debug.Log("You lose");
+            Debug.Log("You lose - resetting scenario...");
             SetScenarioDisabled();
             createScenario();
         }
+    }
+
+    void changeScene()
+    {
+        OVRScreenFade fade = OVRScreenFade.instance;
+        fade.FadeOut();
+        SceneManager.LoadScene(1);
     }
 
     private void createScenario()

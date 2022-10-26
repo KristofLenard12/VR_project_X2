@@ -6,8 +6,17 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Simple Garage/Scenes/Garage Scene.unity
+    path: Assets/Simple Garage/Scenes/Button Puzzle.unity
+    guid: fb483c451783aa54293a93b618eac3b0
+  - enabled: 1
+    path: Assets/Simple Garage/Scenes/Code Breaking.unity
+    guid: 78878e8a0a0c0cf4380d397b9a9110f2
+  - enabled: 1
+    path: Assets/Simple Garage/Scenes/Sound Puzzle.unity
     guid: 4bf43e64bb9ac0e448646855ef895497
+  - enabled: 1
+    path: Assets/Simple Garage/Scenes/labyrinthPuzzle.unity
+    guid: 8c2745024d8797f4986a3158e85d3059
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: bfa1182bd221b4ca89619141f66f1260,
       type: 2}

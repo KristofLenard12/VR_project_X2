@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
 using TMPro;
+using UnityEngine.SceneManagement;
 
 public class Keypad : MonoBehaviour
 {
@@ -132,6 +133,7 @@ public class Keypad : MonoBehaviour
 		{
 			isDone = true;
 			SetDisplayText("CORRECT");
+			changeScene();
 		}
 		else
 		{
@@ -148,5 +150,12 @@ public class Keypad : MonoBehaviour
 	void SetDisplayText(string text)
 	{
 		keypadText.text = text;
+	}
+
+	void changeScene()
+	{
+		OVRScreenFade fade = OVRScreenFade.instance;
+		fade.FadeOut();
+		SceneManager.LoadScene(2);
 	}
 }
