@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 0e23951d1787d9347a368821e376e5ac
+=======
+guid: 36aa35b578cbaf34db27c5437ea85800
+>>>>>>> origin/button-puzzle
 NativeFormatImporter:
   externalObjects: {}
   mainObjectFileID: 11400000

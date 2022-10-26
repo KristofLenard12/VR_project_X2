@@ -150,6 +150,7 @@ PlayerSettings:
   - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}
+<<<<<<< HEAD
   - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}
@@ -161,6 +162,11 @@ PlayerSettings:
   - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}
+=======
+  - {fileID: 11400000, guid: bfa1182bd221b4ca89619141f66f1260, type: 2}
+  - {fileID: -8196854396901781169, guid: 1a4c68ca72a83449f938d669337cb305, type: 2}
+  - {fileID: -2171132590633612700, guid: a9a6963505ddf7f4d886008c6dc86122, type: 2}
+>>>>>>> origin/button-puzzle
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
@@ -180,7 +186,11 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
+<<<<<<< HEAD
     Android: com.JannikVIAXRD.VR_project_X2
+=======
+    Android: com.VR_project_X2
+>>>>>>> origin/button-puzzle
     Standalone: com.DefaultCompany.com.unity.template.vr
   buildNumber:
     Standalone: 0

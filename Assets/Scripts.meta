@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 4ef605f413c56e6488ec0ec1c2500b56
+=======
+guid: 6efea35c8f3e53a4c81cd56ca33211aa
+>>>>>>> origin/button-puzzle
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}
