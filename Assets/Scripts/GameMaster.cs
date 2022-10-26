@@ -14,7 +14,6 @@ public class GameMaster : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        Debug.Log("Setting positions");
         SetHammerPosition(int.Parse("" + UnityEngine.Random.Range(0, 3)));
         SetSawPosition(int.Parse("" + UnityEngine.Random.Range(0, 3)));
         SetCrowbarPosition(int.Parse("" + UnityEngine.Random.Range(0, 3)));

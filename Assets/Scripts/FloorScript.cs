@@ -24,7 +24,6 @@ public class FloorScript : MonoBehaviour
     [SerializeField]
     private GameObject _crowbar;
 
-    private TextMeshPro _triggerText;
     private TextMeshPro _hammerText;
     private TextMeshPro _sawText;
     private TextMeshPro _crowBarText;
@@ -40,11 +39,8 @@ public class FloorScript : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        int randomNumber = int.Parse("" + UnityEngine.Random.Range(0, 7));
-        Debug.Log("Random number: " + randomNumber);
+        int randomNumber = int.Parse("" + UnityEngine.Random.Range(0, 6));
         SetupPath(randomNumber);
-
-        SetTriggerText();
 
         SetCrowbarText();
         SetHammerText();
@@ -52,6 +48,8 @@ public class FloorScript : MonoBehaviour
 
         SetFavoriteToolPos();
         SpawnGameObjective();
+
+        Debug.Log(this.name);
     }
 
     // Update is called once per frame
@@ -70,9 +68,10 @@ public class FloorScript : MonoBehaviour
 
     private void CheckCollider(string name)
     {
+        Debug.Log(name);
         if (_tabooTriggers.Contains(name))
         {
-            _triggerText.text = name;
+            this.transform.position = new Vector3(-1.885f, 0.114f, -0.95f);
         }
     }
 
@@ -125,18 +124,6 @@ public class FloorScript : MonoBehaviour
         }
     }
 
-    private void SetTriggerText()
-    {
-        _triggerText = _triggerTextObject.GetComponent<TextMeshPro>();
-        string full = "";
-        foreach (string item in _tabooTriggers)
-        {
-            full += item + " ";
-        }
-        _triggerText.text = full;
-        _triggerTextObject.transform.SetParent(this.transform);
-    }
-
     private void SetHammerText()
     {
         _hammerText = _hammerTextObject.GetComponent<TextMeshPro>();
@@ -176,6 +163,5 @@ public class FloorScript : MonoBehaviour
         var gameObjective = Instantiate(_gameObjective, _GameObjectivePos, Quaternion.identity) as GameObject;
         ObjectScript script = gameObjective.GetComponent<ObjectScript>();
         script.SetPutPosition(_putIDGameObjective);
-        Debug.Log("Position to be put in: " + _putIDGameObjective);
     }
 }
