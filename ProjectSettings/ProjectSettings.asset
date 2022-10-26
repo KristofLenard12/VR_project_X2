@@ -160,6 +160,10 @@ PlayerSettings:
   - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}
+<<<<<<< HEAD
+=======
+  - {fileID: 0}
+>>>>>>> ad78201c7e90301c0bc407371155a8e1089b4161
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
