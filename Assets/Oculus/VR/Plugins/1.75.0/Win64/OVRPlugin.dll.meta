@@ -16,12 +16,15 @@ PluginImporter:
     second:
       enabled: 1
       settings: {}
+<<<<<<< HEAD
   - first:
       Editor: Editor
     second:
       enabled: 0
       settings:
         DefaultValueInitialized: true
+=======
+>>>>>>> soundPuzzle
   userData: 
   assetBundleName: 
   assetBundleVariant: 

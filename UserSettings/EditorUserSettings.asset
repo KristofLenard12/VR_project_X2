@@ -6,8 +6,12 @@ EditorUserSettings:
   serializedVersion: 4
   m_ConfigSettings:
     RecentlyUsedSceneGuid-0:
+      value: 5306050007545c0a545b0e2644210f4413161a727a7e7e69757c1c32b3b66c6b
+      flags: 0
+    RecentlyUsedSceneGuid-1:
       value: 5a5757560101590a5d0c0e24427b5d44434e4c7a7b7a23677f2b4565b7b5353a
       flags: 0
+<<<<<<< HEAD
     RecentlyUsedSceneGuid-1:
 <<<<<<< HEAD
 =======
@@ -18,6 +22,9 @@ EditorUserSettings:
       flags: 0
     RecentlyUsedSceneGuid-3:
 >>>>>>> origin/button-puzzle
+=======
+    RecentlyUsedSceneGuid-2:
+>>>>>>> soundPuzzle
       value: 5753525256505f0f0f0c552313735a44424f4e7e7a707365282f456ab7b46d6f
       flags: 0
     vcSharedLogLevel:

@@ -31,7 +31,11 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 8688982062548017324}
+<<<<<<< HEAD
   m_RootOrder: 48
+=======
+  m_RootOrder: 53
+>>>>>>> soundPuzzle
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &901520631955889403
 MeshFilter:
@@ -203,7 +207,11 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 8688982062548017324}
+<<<<<<< HEAD
   m_RootOrder: 27
+=======
+  m_RootOrder: 31
+>>>>>>> soundPuzzle
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &5408666471771106791
 MeshFilter:
@@ -370,7 +378,11 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 8688982062548017324}
+<<<<<<< HEAD
   m_RootOrder: 46
+=======
+  m_RootOrder: 51
+>>>>>>> soundPuzzle
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &6201762253683142833
 MeshFilter:
@@ -621,7 +633,11 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 8688982062548017324}
+<<<<<<< HEAD
   m_RootOrder: 50
+=======
+  m_RootOrder: 55
+>>>>>>> soundPuzzle
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &8468026999097274348
 MeshFilter:
@@ -704,7 +720,11 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 8688982062548017324}
+<<<<<<< HEAD
   m_RootOrder: 25
+=======
+  m_RootOrder: 29
+>>>>>>> soundPuzzle
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &2054355328619260889
 MeshFilter:
@@ -787,7 +807,11 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 8688982062548017324}
+<<<<<<< HEAD
   m_RootOrder: 20
+=======
+  m_RootOrder: 24
+>>>>>>> soundPuzzle
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &8377229608653322796
 MeshFilter:
@@ -1042,7 +1066,11 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 8688982062548017324}
+<<<<<<< HEAD
   m_RootOrder: 17
+=======
+  m_RootOrder: 21
+>>>>>>> soundPuzzle
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &6251410749782182279
 MeshFilter:
@@ -1127,7 +1155,11 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 8688982062548017324}
+<<<<<<< HEAD
   m_RootOrder: 53
+=======
+  m_RootOrder: 58
+>>>>>>> soundPuzzle
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &6807193130014533503
 MeshFilter:
@@ -1210,7 +1242,11 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 8688982062548017324}
+<<<<<<< HEAD
   m_RootOrder: 51
+=======
+  m_RootOrder: 56
+>>>>>>> soundPuzzle
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &445330560643297603
 MeshFilter:
@@ -1384,7 +1420,11 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 8688982062548017324}
+<<<<<<< HEAD
   m_RootOrder: 32
+=======
+  m_RootOrder: 36
+>>>>>>> soundPuzzle
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &7152214480163248191
 MeshFilter:
@@ -1470,7 +1510,11 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 8688982062548017324}
+<<<<<<< HEAD
   m_RootOrder: 43
+=======
+  m_RootOrder: 48
+>>>>>>> soundPuzzle
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &296304519517902926
 MeshFilter:
@@ -1555,7 +1599,11 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 8688982062548017324}
+<<<<<<< HEAD
   m_RootOrder: 38
+=======
+  m_RootOrder: 42
+>>>>>>> soundPuzzle
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &2590477119919657358
 MeshFilter:
@@ -1638,7 +1686,11 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 8688982062548017324}
+<<<<<<< HEAD
   m_RootOrder: 36
+=======
+  m_RootOrder: 40
+>>>>>>> soundPuzzle
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &763206925823004209
 MeshFilter:
@@ -1721,7 +1773,11 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 8688982062548017324}
+<<<<<<< HEAD
   m_RootOrder: 41
+=======
+  m_RootOrder: 46
+>>>>>>> soundPuzzle
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &7007067768000169460
 MeshFilter:
@@ -1775,6 +1831,93 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+<<<<<<< HEAD
+=======
+--- !u!1 &3628194249670723360
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9080291689410790381}
+  - component: {fileID: 7756753788764695266}
+  - component: {fileID: 5932994037971862364}
+  m_Layer: 0
+  m_Name: Drill part
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 4294967295
+  m_IsActive: 1
+--- !u!4 &9080291689410790381
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3628194249670723360}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -1.801317, y: 0.5610994, z: -2.2804532}
+  m_LocalScale: {x: 1.558779, y: 1.9244184, z: 1.9244184}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 8688982062548017324}
+  m_RootOrder: 17
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &7756753788764695266
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3628194249670723360}
+  m_Mesh: {fileID: 6873657675977625119, guid: 8f9e4da5668113a4da8b4efea4a9499f, type: 3}
+--- !u!23 &5932994037971862364
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3628194249670723360}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: d7d966cb193125649b12f85d35cf4015, type: 2}
+  - {fileID: 2100000, guid: 3df0fcd10d7adee40b1d8bf4a642cd48, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+>>>>>>> soundPuzzle
 --- !u!1 &3886771180134824281
 GameObject:
   m_ObjectHideFlags: 0
@@ -1890,7 +2033,11 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 8688982062548017324}
+<<<<<<< HEAD
   m_RootOrder: 18
+=======
+  m_RootOrder: 22
+>>>>>>> soundPuzzle
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &8941605428279865348
 MeshFilter:
@@ -1975,7 +2122,11 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 8688982062548017324}
+<<<<<<< HEAD
   m_RootOrder: 33
+=======
+  m_RootOrder: 37
+>>>>>>> soundPuzzle
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &252303384911277056
 MeshFilter:
@@ -2060,7 +2211,11 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 8688982062548017324}
+<<<<<<< HEAD
   m_RootOrder: 31
+=======
+  m_RootOrder: 35
+>>>>>>> soundPuzzle
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &2881588165989215184
 MeshFilter:
@@ -2145,7 +2300,11 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 8688982062548017324}
+<<<<<<< HEAD
   m_RootOrder: 44
+=======
+  m_RootOrder: 49
+>>>>>>> soundPuzzle
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &8760887402342931146
 MeshFilter:
@@ -2314,7 +2473,11 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 8688982062548017324}
+<<<<<<< HEAD
   m_RootOrder: 45
+=======
+  m_RootOrder: 50
+>>>>>>> soundPuzzle
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &4253791536669816180
 MeshFilter:
@@ -2397,7 +2560,11 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 8688982062548017324}
+<<<<<<< HEAD
   m_RootOrder: 22
+=======
+  m_RootOrder: 26
+>>>>>>> soundPuzzle
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &527152808548189156
 MeshFilter:
@@ -2650,7 +2817,11 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 8688982062548017324}
+<<<<<<< HEAD
   m_RootOrder: 24
+=======
+  m_RootOrder: 28
+>>>>>>> soundPuzzle
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &3763209977712408158
 MeshFilter:
@@ -2733,7 +2904,11 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 8688982062548017324}
+<<<<<<< HEAD
   m_RootOrder: 49
+=======
+  m_RootOrder: 54
+>>>>>>> soundPuzzle
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &7589277520644796359
 MeshFilter:
@@ -2785,6 +2960,176 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+<<<<<<< HEAD
+=======
+--- !u!1 &5930884014616326819
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5359233334062087418}
+  - component: {fileID: 1647997698670636086}
+  - component: {fileID: 311965944662089598}
+  m_Layer: 0
+  m_Name: Drill Bits.002
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 4294967295
+  m_IsActive: 1
+--- !u!4 &5359233334062087418
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5930884014616326819}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.9736116, y: 1.1333145, z: -2.1928298}
+  m_LocalScale: {x: 1.558779, y: 1.9244184, z: 1.9244184}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 8688982062548017324}
+  m_RootOrder: 16
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &1647997698670636086
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5930884014616326819}
+  m_Mesh: {fileID: -3020768959367990567, guid: 8f9e4da5668113a4da8b4efea4a9499f, type: 3}
+--- !u!23 &311965944662089598
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5930884014616326819}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 592e40746ca9cf944839b21915d3e414, type: 2}
+  - {fileID: 2100000, guid: e442faa0dbf483c4ca6d09db3a5156c5, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!1 &5960767560853327965
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3777295410847380407}
+  - component: {fileID: 7249553382738311787}
+  - component: {fileID: 3414508610854561257}
+  m_Layer: 0
+  m_Name: Drill Bits
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 4294967295
+  m_IsActive: 1
+--- !u!4 &3777295410847380407
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5960767560853327965}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -1.7709258, y: 1.659669, z: -2.236693}
+  m_LocalScale: {x: 1.558779, y: 1.9244184, z: 1.9244184}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 8688982062548017324}
+  m_RootOrder: 13
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &7249553382738311787
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5960767560853327965}
+  m_Mesh: {fileID: -2884568290362329692, guid: 8f9e4da5668113a4da8b4efea4a9499f, type: 3}
+--- !u!23 &3414508610854561257
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5960767560853327965}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 4e86ca9f8f7424744a4426c0ee5c0145, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+>>>>>>> soundPuzzle
 --- !u!1 &6093321466151207458
 GameObject:
   m_ObjectHideFlags: 0
@@ -2816,7 +3161,11 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 8688982062548017324}
+<<<<<<< HEAD
   m_RootOrder: 28
+=======
+  m_RootOrder: 32
+>>>>>>> soundPuzzle
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &3879173930880549064
 MeshFilter:
@@ -2900,7 +3249,11 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 8688982062548017324}
+<<<<<<< HEAD
   m_RootOrder: 30
+=======
+  m_RootOrder: 34
+>>>>>>> soundPuzzle
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &6748599980472592913
 MeshFilter:
@@ -2985,7 +3338,11 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 8688982062548017324}
+<<<<<<< HEAD
   m_RootOrder: 29
+=======
+  m_RootOrder: 33
+>>>>>>> soundPuzzle
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &7374711111952368335
 MeshFilter:
@@ -3068,7 +3425,11 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 8688982062548017324}
+<<<<<<< HEAD
   m_RootOrder: 37
+=======
+  m_RootOrder: 41
+>>>>>>> soundPuzzle
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &6115349946639719032
 MeshFilter:
@@ -3209,6 +3570,92 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+<<<<<<< HEAD
+=======
+--- !u!1 &6561133452331443481
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8152055516188903349}
+  - component: {fileID: 881718453021534834}
+  - component: {fileID: 8628469624442559293}
+  m_Layer: 0
+  m_Name: Drill Bits.001
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 4294967295
+  m_IsActive: 1
+--- !u!4 &8152055516188903349
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6561133452331443481}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.99432755, y: 1.5483568, z: -2.1919923}
+  m_LocalScale: {x: 1.558779, y: 1.9244184, z: 1.9244184}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 8688982062548017324}
+  m_RootOrder: 15
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &881718453021534834
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6561133452331443481}
+  m_Mesh: {fileID: 4603012084987053657, guid: 8f9e4da5668113a4da8b4efea4a9499f, type: 3}
+--- !u!23 &8628469624442559293
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6561133452331443481}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: e442faa0dbf483c4ca6d09db3a5156c5, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+>>>>>>> soundPuzzle
 --- !u!1 &6628610192145133831
 GameObject:
   m_ObjectHideFlags: 0
@@ -3240,7 +3687,11 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 8688982062548017324}
+<<<<<<< HEAD
   m_RootOrder: 19
+=======
+  m_RootOrder: 23
+>>>>>>> soundPuzzle
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &2373625826981685822
 MeshFilter:
@@ -3294,7 +3745,11 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+<<<<<<< HEAD
 --- !u!1 &6663884219539110884
+=======
+--- !u!1 &6695077866814921248
+>>>>>>> soundPuzzle
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -3302,22 +3757,35 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< HEAD
   - component: {fileID: 6743167693871608575}
   - component: {fileID: 1027327084613962650}
   - component: {fileID: 966318315760056739}
   m_Layer: 0
   m_Name: Floor
+=======
+  - component: {fileID: 2249575265846836373}
+  - component: {fileID: 2056861226525623692}
+  - component: {fileID: 3981890921895660286}
+  m_Layer: 0
+  m_Name: Cone Drill Bits
+>>>>>>> soundPuzzle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 4294967295
   m_IsActive: 1
+<<<<<<< HEAD
 --- !u!4 &6743167693871608575
+=======
+--- !u!4 &2249575265846836373
+>>>>>>> soundPuzzle
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 6663884219539110884}
   m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: -0.10323552, y: 0.031139497, z: 1.5715497}
@@ -3328,20 +3796,42 @@ Transform:
   m_RootOrder: 16
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &1027327084613962650
+=======
+  m_GameObject: {fileID: 6695077866814921248}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -1.069889, y: 2.0024865, z: -2.1924558}
+  m_LocalScale: {x: 1.558779, y: 1.9244184, z: 1.9244184}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 8688982062548017324}
+  m_RootOrder: 12
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &2056861226525623692
+>>>>>>> soundPuzzle
 MeshFilter:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 6663884219539110884}
   m_Mesh: {fileID: -629719859055844128, guid: 8f9e4da5668113a4da8b4efea4a9499f, type: 3}
 --- !u!23 &966318315760056739
+=======
+  m_GameObject: {fileID: 6695077866814921248}
+  m_Mesh: {fileID: 4975521471186447492, guid: 8f9e4da5668113a4da8b4efea4a9499f, type: 3}
+--- !u!23 &3981890921895660286
+>>>>>>> soundPuzzle
 MeshRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 6663884219539110884}
+=======
+  m_GameObject: {fileID: 6695077866814921248}
+>>>>>>> soundPuzzle
   m_Enabled: 1
   m_CastShadows: 1
   m_ReceiveShadows: 1
@@ -3355,7 +3845,11 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
+<<<<<<< HEAD
   - {fileID: 2100000, guid: 1d0c85a40adbb0e41be6404db12b98c4, type: 2}
+=======
+  - {fileID: 2100000, guid: e442faa0dbf483c4ca6d09db3a5156c5, type: 2}
+>>>>>>> soundPuzzle
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -3408,7 +3902,11 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 8688982062548017324}
+<<<<<<< HEAD
   m_RootOrder: 40
+=======
+  m_RootOrder: 45
+>>>>>>> soundPuzzle
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &1505943571961284722
 MeshFilter:
@@ -3580,7 +4078,11 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 8688982062548017324}
+<<<<<<< HEAD
   m_RootOrder: 23
+=======
+  m_RootOrder: 27
+>>>>>>> soundPuzzle
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &7070734692734921741
 MeshFilter:
@@ -3632,6 +4134,92 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+<<<<<<< HEAD
+=======
+--- !u!1 &6921206402250093558
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3886122528571472973}
+  - component: {fileID: 6249442894083437856}
+  - component: {fileID: 6987878169280548232}
+  m_Layer: 0
+  m_Name: Round Drill Bits
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 4294967295
+  m_IsActive: 1
+--- !u!4 &3886122528571472973
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6921206402250093558}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -1.6145234, y: 1.9781932, z: -2.2358208}
+  m_LocalScale: {x: 1.558779, y: 1.9244184, z: 1.9244184}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 8688982062548017324}
+  m_RootOrder: 44
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &6249442894083437856
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6921206402250093558}
+  m_Mesh: {fileID: -4014430157521663311, guid: 8f9e4da5668113a4da8b4efea4a9499f, type: 3}
+--- !u!23 &6987878169280548232
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6921206402250093558}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: e442faa0dbf483c4ca6d09db3a5156c5, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+>>>>>>> soundPuzzle
 --- !u!1 &6953574957134795842
 GameObject:
   m_ObjectHideFlags: 0
@@ -3746,7 +4334,11 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 8688982062548017324}
+<<<<<<< HEAD
   m_RootOrder: 26
+=======
+  m_RootOrder: 30
+>>>>>>> soundPuzzle
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &7490864077179144393
 MeshFilter:
@@ -3829,7 +4421,11 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 8688982062548017324}
+<<<<<<< HEAD
   m_RootOrder: 39
+=======
+  m_RootOrder: 43
+>>>>>>> soundPuzzle
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &5860347600499232794
 MeshFilter:
@@ -3997,7 +4593,11 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 8688982062548017324}
+<<<<<<< HEAD
   m_RootOrder: 52
+=======
+  m_RootOrder: 57
+>>>>>>> soundPuzzle
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &2231510931719417925
 MeshFilter:
@@ -4080,7 +4680,11 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 8688982062548017324}
+<<<<<<< HEAD
   m_RootOrder: 42
+=======
+  m_RootOrder: 47
+>>>>>>> soundPuzzle
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &6046877298094325185
 MeshFilter:
@@ -4178,7 +4782,6 @@ Transform:
   - {fileID: 9126579867151969966}
   - {fileID: 738661346007845575}
   - {fileID: 818350470472905553}
-  - {fileID: 6743167693871608575}
   - {fileID: 5206705145000576143}
   - {fileID: 7166877532153021667}
   - {fileID: 8187473271190994594}
@@ -4250,7 +4853,11 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 8688982062548017324}
+<<<<<<< HEAD
   m_RootOrder: 35
+=======
+  m_RootOrder: 39
+>>>>>>> soundPuzzle
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &2965954577381594539
 MeshFilter:
@@ -4418,7 +5025,11 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 8688982062548017324}
+<<<<<<< HEAD
   m_RootOrder: 47
+=======
+  m_RootOrder: 52
+>>>>>>> soundPuzzle
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &3584437657937523391
 MeshFilter:
@@ -4501,7 +5112,11 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 8688982062548017324}
+<<<<<<< HEAD
   m_RootOrder: 34
+=======
+  m_RootOrder: 38
+>>>>>>> soundPuzzle
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &3951502139469790250
 MeshFilter:
@@ -4586,7 +5201,11 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 8688982062548017324}
+<<<<<<< HEAD
   m_RootOrder: 21
+=======
+  m_RootOrder: 25
+>>>>>>> soundPuzzle
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &6134086078194206340
 MeshFilter:
